@@ -11,5 +11,5 @@ Currently, two official plugins are available:
 
 ![car new](https://github.com/RickPratihar/Car-Rental-website/assets/103872207/5cf8a1e8-5443-447a-894b-dd7b670ca301)
 
-live url : 
-https://car-rental-172695.netlify.app/home
+<h1>live url : 
+https://car-rental-172695.netlify.app/home</h1>
